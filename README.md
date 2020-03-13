@@ -1,2 +1,2 @@
 # springOreillyCourse
-learning Spring Framework 
+learning Spring Framework.
